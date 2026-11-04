@@ -49,6 +49,10 @@ npx printags orders create --file order.json --idempotency-key order-2026-001
 
 `printags help` lists every command and option. Output is JSON on stdout.
 
+## License
+
+[MIT](LICENSE), © Printags SAS.
+
 ## Links
 
 - Documentation: https://docs.printags.com
